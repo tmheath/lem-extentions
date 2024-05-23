@@ -3,5 +3,6 @@ Modes
 Applications
 ------------
 [tetris]()
+
 Misc
 ----
