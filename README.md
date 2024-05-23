@@ -1,0 +1,7 @@
+Modes
+-----
+Applications
+------------
+[tetris]()
+Misc
+----
